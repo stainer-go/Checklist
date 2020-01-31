@@ -1,2 +1,2 @@
 # Checklist
-Checklist
+![PROJECT_PHOTO](https://github.com/stainer-go/Checklist/blob/master/Checklist.jpg)
